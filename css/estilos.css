@@ -1,12 +1,24 @@
-h1
-{
+#cabecera{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 35px;
+    font-weight: border;
     text-align: center;
     color:blue;
+    background-color: black;
+    margin: 0;
+    padding: 10, 0;
+}
+h1
+{
+   text-align: center;
+   background-color: black;
 }
 p{
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
+}
+#subtitulo{
+    margin: 10, 10;
+    padding: 50,10;
 }
